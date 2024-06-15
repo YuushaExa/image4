@@ -55,9 +55,8 @@ body {
 }
 #canvas {
     border: 1px solid #ccc;
-                position: absolute;
-            top: 50px; 
-            left: 100px; 
+    margin: 10px;
+    width: 70%;
 }
        #rulers {
             position: absolute;
